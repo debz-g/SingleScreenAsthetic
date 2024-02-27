@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoremIpsumAsthetic</string>
+    <string name="simply_dummy_text">Simply dummy text of the printing</string>
+    <string name="simply_dummy_text_alt">Simply dummy text of the printing and\n typesetting industry. Lorem Ipsum has been the industry\'s\n standard dummy.</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="lorum">lorum</string>
+</resources>
